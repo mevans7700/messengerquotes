@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+  <ListPreference 
+ android:title="Background Color" 
+ android:summary="Set the background color." 
+ android:defaultValue="1" 
+ android:key="backgroundcolorPref" 
+ android:entryValues="@array/background_colors_values" 
+ android:entries="@array/background_colors">	
+ 
+</ListPreference>
+<ListPreference 
+ android:title="Font" 
+ android:summary="Set the text font." 
+ android:defaultValue="1" 
+ android:key="fontPref" 
+ android:entryValues="@array/font_values" 
+ android:entries="@array/fonts">	
+ 
+</ListPreference>
+<ListPreference 
+ android:title="Text Color" 
+ android:summary="Set the text color." 
+ android:defaultValue="7f070006" 
+ android:key="textcolorPref" 
+ android:entryValues="@array/text_color_values" 
+ android:entries="@array/text_colors">	
+ 
+</ListPreference>
+<com.evansappwriter.mod000.TextSizeSeekBarPreference  
+                android:key="textsizePref"
+                android:defaultValue="20"
+                android:title="Text Size" />
+</PreferenceScreen>

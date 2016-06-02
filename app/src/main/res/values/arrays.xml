@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="quotes">
+<item>Give, and it shall be given to you. For whatever measure you deal out to others, it will be dealt to you in return.</item>
+<item>Love is patient; love is kind
+and envies no one.
+Love is never boastful, nor conceited, nor rude;
+never selfish, not quick to take offense.
+There is nothing love cannot face;
+there is no limit to its faith,
+its hope, and endurance.
+In a word, there are three things
+that last forever: faith, hope, and love;
+but the greatest of them all is love.</item>
+<item>Work hard and become a leader; be lazy and never succeed. (Proverbs 12:24)</item>
+<item>Be strong and of a good courage, fear not, nor be afraid...for the Lord thy God, he it is that doth go with thee; he will not fail thee, nor forsake thee.</item>
+<item>Weeping may endure for a night, but joy cometh in the morning. (Psalms 30:5)</item>
+<item>It is easier for a camel to go through the eye of a needle, than for a rich man to enter the kingdom of God</item>
+<item>A fool shows his annoyance at once, but a prudent man overlooks an insult</item>
+<item>Work hard and become a leader; be lazy and never succeed. (Proverbs 12:24)</item>
+<item>For the Lamb which is in the midst of the throne shall feed them, and shall lead them unto living fountains of waters: and God shall wipe away all tears from their eyes.</item>
+<item>He only is my rock and my salvation: he is my defense; I shall not be moved.</item>
+</string-array>
+
+<string-array name="fonts">
+<item>Default</item>
+<item>Serif</item>
+<item>Monospace</item>
+<item>Sans</item>
+</string-array>
+
+<string-array name="font_values">
+<item>1</item>
+<item>2</item>
+<item>3</item>
+<item>4</item>
+</string-array>
+
+<string-array name="text_colors">
+<item>White</item>
+<item>Black</item>
+<item>Red</item>
+<item>Blue</item>
+<item>Yellow</item>
+<item>Green</item>
+<item>Purple</item>
+</string-array>
+
+<string-array name="text_color_values">
+<item>7f070005</item>
+<item>7f070006</item>
+<item>7f070007</item>
+<item>7f070008</item>
+<item>7f07000a</item>
+<item>7f070009</item>
+<item>7f07000b</item>
+</string-array>
+
+<string-array name="background_colors">
+<item>White</item>
+<item>Black</item>
+</string-array>
+
+<string-array name="background_colors_values">
+<item>1</item>
+<item>2</item>
+</string-array>
+</resources>

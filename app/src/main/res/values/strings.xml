@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Messenger Quotes</string>
+    <string name="titlebar_name">Messengers From Around the World</string>
+    <string name="quote_dialog_text">Getting Messages. Please wait...</string>
+    <string name="noquotes">There are not messages entered in your Message Account</string>
+    <string name="write_lesson_button_label">Message Journal</string>
+    <string name="list_lesson_button_label">View Journals</string>
+    <string name="website_button_label">Messenger\'s Website</string>
+    <string name="exit_button_label">Exit</string>
+    <string name="lesson_edit_instruct_text">Use the form below to journal or reflect on this message. What meaning does it have for you today?</string>
+    <string name="submit_button_text">Submit</string>    
+    <string name="menu_item_instructions">Instructions</string>
+    <string name="menu_item_share">Share</string>
+    <string name="menu_item_about">About</string>
+    <string name="menu_item_refresh">Refresh Messages</string>    
+<string name="email_subject_text">Thought this great message might inspire you...</string>
+<string name="email_body_text">Hi, I just read a great message from an Android App I have.  I thought I would share it with you:\n\n
+</string>
+<string name="about_title"></string> 
+<string name="about_text">\
+The Messenger Network is an online support company that trains everyday people on ways to find and share their message with the world.  We use the power of the Internet and technology to help messengers share their message in powerful and personal ways.  Our services include online trainings, LIVE events, book writing programs, building a powerful membership website, online courses, smart-phone apps, and LIVEstream workshops.  
+ 
+\n\nFor more information on the Messenger Network, 
+visit our website at \nhttp://www.TheMessengerNetwork.com
+</string>
+<string name="instructions_title">Instructions</string>
+<string name="instructions_text">\
+Each day a new message will be presented to you after opening this app.  With each message you can journal on that message what meaning it may have for you.  Each time you submit a journal it will be saved to your phone and available for you to review or edit.  The purpose of the journal is to personalize the message in your own life and can be a powerful revealing moment for you.  Then if you want to read a new message, just shake the phone and new will appear randomly.  Otherwise, visit the app each day for a new message 365 days a year.  For more information on getting your own custom Messenger Smart-phone Apps, visit our website at \nhttp://www.MessengerPhoneApps.com
+</string>
+<string name="activation_email">Email:</string>
+<string name="activation_screen">Account Activation</string>
+<string name="activation_no_account_error">Error! There is no account setup with the email entered.  Please re-enter...</string>
+<string name="activation_duplicate_error">Error! This email is associated with another account. Either re-enter the email or push the menu button and go to the "About" section and email the support department</string>
+<string name="activation_setup_text">To activate this app please go to %1 and follow the instructions there.  After which start this app again and enter you Google email address to activate your account.</string>
+<string name="activiation_account_dialog_title">Activate Account</string>
+<string name="website_login">droid-movementofchange.appspot.com/account_setup.jsp</string>
+<string name="quote_divider">------------------------------\n</string>
+<string name="preferences_title">Display Settings</string>
+<string name="default_header_text">Message of The Day</string>
+<string name="year_entry_text">Enter the Year of Messages</string>
+</resources>

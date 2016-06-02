@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="background">#ff33ccff</color>
+<color name="text_link_color">#ff0000ff</color>
+<color name="quote_text_color">#ff990033</color>
+<color name="text_lesson_color">#ff990033</color>
+<color name="error_color">#F00</color>
+<color name="white">#ffffff</color>
+<color name="black">#000000</color>
+<color name="red">#ff0000</color>
+<color name="blue">#0000ff</color>
+<color name="green">#008000</color>
+<color name="yellow">#ffff00</color>
+<color name="purple">#800080</color>
+</resources>

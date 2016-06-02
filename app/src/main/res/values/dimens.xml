@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<dimen name="header_text_size">24dp</dimen>
+<dimen name="quote_text_size">20dp</dimen>
+<dimen name="category_text_size">25dp</dimen>
+<dimen name="profile_title_text_size">20dp</dimen>
+<dimen name="profile_summary_text_size">15dp</dimen>
+<dimen name="profile_author_text_size">14dp</dimen>
+<dimen name="profile_subtitle_text_size">16dp</dimen>
+<dimen name="button_text_size">10dp</dimen>
+<dimen name="chapter_title_size">20dp</dimen>
+<dimen name="chapter_text_size">18dp</dimen>
+<dimen name="lesson_edit_text_size">18dp</dimen>
+<dimen name="lesson_question_size">18dp</dimen>
+<dimen name="lesson_insturct_size">14dp</dimen>
+<dimen name="screen_title_size">34dp</dimen>
+<dimen name="help_text_size">16dp</dimen>
+<dimen name="new_account_text_size">20dp</dimen>
+<dimen name="lesson_answer_size">16dp</dimen>
+</resources>
